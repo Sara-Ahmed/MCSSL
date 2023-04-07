@@ -17,7 +17,7 @@ import torch.backends.cudnn as cudnn
 
 import torchvision
 
-from datasets import load_dataset, datasets_utils
+import datasets_utils
 
 import utils
 import vision_transformer as vits
