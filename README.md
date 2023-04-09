@@ -17,8 +17,6 @@ This repository contains the official PyTorch self-supervised pretraining, finet
 
 > python -m torch.distributed.launch --nproc_per_node=8 --use_env main_MCSSL.py --batch_size 64 --epochs 800 --data_location 'path/to/imageNet/trainingimgs' 
 
-Self-supervised pre-trained models using MCSSL can be downloaded from [here](https://drive.google.com/drive/folders/1yhvZUPx6jQA9Z7bWYovFM3WuiyboPTan?usp=sharing)
-
 | Architecture  | # paramters   | Finetuning Accuracy | download |
 | :-------------: | :-------------: | :-------------: |  ------------- |
 | ViT-S/16 | 22M  | 82.4 % |[checkpoint](https://drive.google.com/file/d/1QIRFfKyNj0_VC7aHHQvKvuHJlD9aUxR9/view?usp=share_link) |
