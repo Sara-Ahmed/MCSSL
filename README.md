@@ -19,6 +19,11 @@ This repository contains the official PyTorch self-supervised pretraining, finet
 
 Self-supervised pre-trained models using MCSSL can be downloaded from [here](https://drive.google.com/drive/folders/1yhvZUPx6jQA9Z7bWYovFM3WuiyboPTan?usp=sharing)
 
+| Architecture  | # paramters   | Finetuning Accuracy | download |
+| :-------------: | :-------------: | :-------------: |  ------------- |
+| ViT-S/16 | 22M  | 82.4 % |[checkpoint](https://drive.google.com/file/d/1QIRFfKyNj0_VC7aHHQvKvuHJlD9aUxR9/view?usp=share_link) |
+| ViT-B/16 | 85M  | 84.0 % |[checkpoint](https://drive.google.com/file/d/1vmlJDt25slcv20ykyRA6IE09HPlxYbjM/view?usp=share_link) |
+
 # Finetuning
 We rely on the finetuning strategy of [Deit](https://github.com/facebookresearch/deit) 
 
