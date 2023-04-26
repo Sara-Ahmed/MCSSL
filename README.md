@@ -20,7 +20,7 @@ This repository contains the official PyTorch self-supervised pretraining, finet
 | Architecture  | # paramters   | Finetuning Accuracy | download |
 | :-------------: | :-------------: | :-------------: |  ------------- |
 | ViT-S/16 | 22M  | 82.4 % |[checkpoint](https://drive.google.com/file/d/1QIRFfKyNj0_VC7aHHQvKvuHJlD9aUxR9/view?usp=share_link) |
-| ViT-B/16 | 85M  | 84.0 % |[checkpoint](https://drive.google.com/file/d/1vmlJDt25slcv20ykyRA6IE09HPlxYbjM/view?usp=share_link) |
+| ViT-B/16 | 85M  | 84.0 % |[checkpoint](https://drive.google.com/file/d/1KjblkfYAsRIlr5z6oIO5Y03-7aCcgsVm/view?usp=sharing) |
 
 # Finetuning
 We rely on the finetuning strategy of [Deit](https://github.com/facebookresearch/deit) 
